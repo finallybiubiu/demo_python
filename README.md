@@ -1,4 +1,4 @@
-bitvc_futures_python
+huobi api python
 ====================
 
-bitvc 期货api  python  demo
+huobi api  python  demo
