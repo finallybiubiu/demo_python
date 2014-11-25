@@ -5,7 +5,7 @@ import hashlib
 import hmac
 import base64
 
-
+#在此添加您的key
 ACCESS_KEY=""
 SECRET_KEY=""
 
